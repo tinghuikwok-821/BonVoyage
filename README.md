@@ -6,7 +6,7 @@
 
 **Video Presentation:** [Unlisted YouTube Link]
 
-**Presentation Slides:** [Public Link]
+**Presentation Slides:** https://canva.link/f2bqg0u58z8otdc
 
 ## 1. Project Overview
 
