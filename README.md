@@ -1,8 +1,11 @@
 # Bon Voyage by Two of a Kind
 
 **Team:** Kwok Ting Hui, See Yi Xi
+
 **Problem Statement:** Travel Planner
+
 **Video Presentation:** [Unlisted YouTube Link]
+
 **Presentation Slides:** [Public Link]
 
 ## 1. Project Overview
