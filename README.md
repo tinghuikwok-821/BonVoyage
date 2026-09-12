@@ -67,7 +67,7 @@ An adaptive travel planning ecosystem that eliminates app fragmentation by unify
 
 | Date | Mentor | Feedback Received | What Was Changed |
 |---|---|---|---|
-| 10.09.2026 | Lim Zi Yang | Try turning the 2D Figma UI designs into a prototype app in Flutter/Next.js for more interactivity for the judges. Slides should include the problem statement. Slides should include solutions to the problem faced. | Problem statement and solutions added to the slides. |
+| 10.09.2026 | Lim Zi Yang | Try turning the 2D Figma UI designs into a prototype app in Flutter/Next.js for more interactivity for the judges. Slides should include the problem statement. Slides should include solutions to the problem faced. | Problem statement and solutions added to the slides. Prototype was turned into Next.js to be more interactive and presented in Vercel.|
 
 ## 3. Design & Prototype
 
