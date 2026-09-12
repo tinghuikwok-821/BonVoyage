@@ -71,9 +71,7 @@ An adaptive travel planning ecosystem that eliminates app fragmentation by unify
 
 ## 3. Design & Prototype
 
-**UI Prototype:** [Public Link]
-
-Recommended key screens (4–8), each with a caption explaining the interaction:
+**UI Prototype:** https://bonvoyage-rust.vercel.app/
 
 1. **Home Dashboard** — Landing screen after login. Shows the active trip at a glance (budget progress, member avatars, next itinerary item) and surfaces a live-price shortcut, so the user never has to dig for status.
 2. **Plan a New Trip (form)** — User enters destination, dates, group size, member emails, total budget, and free-text notes. The notes field is read by the AI to customize the itinerary generated next.
