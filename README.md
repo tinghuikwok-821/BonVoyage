@@ -71,9 +71,10 @@ An adaptive travel planning ecosystem that eliminates app fragmentation by unify
 
 ## 3. Design & Prototype
 
-**Clickable Prototype:** https://bonvoyage-rust.vercel.app/
+**The Clickable Prototype:** https://bonvoyage-rust.vercel.app/
 
-**UI Prototype:** https://www.figma.com/proto/IeTsiQ14Nk78hVgQbwMSbq/TravelPlanner?node-id=30-626&p=f&t=NackLL6QVzoR8hBk-1&scaling=scale-down&content-scaling=fixed&page-id=0%3A1&starting-point-node-id=17%3A30
+
+**The UI Prototype:** https://www.figma.com/proto/IeTsiQ14Nk78hVgQbwMSbq/TravelPlanner?node-id=30-626&p=f&t=NackLL6QVzoR8hBk-1&scaling=scale-down&content-scaling=fixed&page-id=0%3A1&starting-point-node-id=17%3A30
 
 1. **Home Dashboard** — Landing screen after login. Shows the active trip at a glance (budget progress, member avatars, next itinerary item) and surfaces a live-price shortcut, so the user never has to dig for status.
 2. **Plan a New Trip (form)** — User enters destination, dates, group size, member emails, total budget, and free-text notes. The notes field is read by the AI to customize the itinerary generated next.
